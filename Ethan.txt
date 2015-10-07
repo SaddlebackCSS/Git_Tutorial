@@ -1,1 +1,1 @@
-Hey! I used Vi.. scary!
+Hey! I used Vim.. scary!
