@@ -1,2 +1,4 @@
 Hey! I used Vim.. scary!
 Edit something here for merge conflict. No really, make a conflict.
+Conflict successful!
+
