@@ -1,1 +1,2 @@
 Hey! I used Vim.. scary!
+Edit something here for merge conflict
