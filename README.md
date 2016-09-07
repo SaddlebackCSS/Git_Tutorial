@@ -66,3 +66,7 @@ Push your changes (yay!):
 ```
 git push
 ```
+
+
+For more information:
+[Git Documentation](https://git-scm.com/documentation)
